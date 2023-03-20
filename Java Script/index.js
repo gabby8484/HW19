@@ -10,7 +10,7 @@ $("button").hover(function(){
     $(this).css("background-color","#00FF00");
   },
   function(){
-    $(this).css("background-color", "#00FF00");
+    $(this).css("background-color", "#FFFFFF");
   });
 
 
